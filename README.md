@@ -14,21 +14,22 @@ More on that last one below. 👀
 
 ## 👩‍💻 Currently in My Building Era
 
-🤖 Meet Sonny, my AI sidekick. It started with a simple thought:
+### 🤖 Meet Sonny: My First AI Copilot
 
-*Surely there has to be a better way to do this.*
+What started as my personal fix for repetitive admin work turned into something much bigger: an AI copilot for enterprise implementation teams.
 
-After one too many hours spent preparing meeting recaps, chasing down documentation, and piecing together information across different systems, I decided to build something about it.
+After years of watching consultants spend hours writing meeting recaps, chasing support tickets, and digging through documentation, I started experimenting with ways to give them that time back.
 
-Enter **Sonny**.
+**Here's what came out of it:**
+- Built an AI assistant to draft customer recaps, structure support tickets, and surface outstanding action items.
+- Expanded the concept into a team knowledge copilot, built and piloted to help consultants find answers without waiting on someone in another time zone.
+- Designed a broader implementation experience connecting contract analysis, onboarding readiness, customer provisioning, and personalized resources.
 
-What started as my personal productivity assistant evolved into an implementation copilot designed to help consultants find answers, simplify workflows, and make enterprise onboarding a little less chaotic.
+The most interesting part wasn't the AI itself. It was figuring out which problems were worth solving, where automation actually helped, and where a human still needed to make the call.
 
-And naturally, I couldn't stop there. The bigger vision included automated implementation scoping, customer provisioning, and personalized customer resource centers.
+Some of it I built. Some I piloted. And some became a roadmap I'd love to keep exploring.
 
-Some of it I built. Some of it I piloted. Some of it is still a very exciting roadmap.
-
-**[Meet Sonny & Read the Case Study →](https://github.com/tctiffanycline-13/SonnyAI-Portfolio)**
+**[Meet Sonny & Explore the Case Study →](https://github.com/tctiffanycline-13/SonnyAI-Portfolio)**
 
 ---
 
